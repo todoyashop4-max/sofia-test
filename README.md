@@ -75,3 +75,4 @@ Para usar esta tela, coloque sua arte em `assets/manual.webp` e deixe `manual: t
 - A cor dos números é alterada em `contagem.corNumero` no `config.js`.
 - A cor das legendas é alterada em `contagem.corLegenda`.
 - O contador redimensiona números, legendas e espaçamentos proporcionalmente ao bloco, evitando sobreposição.
+- test de publicação
